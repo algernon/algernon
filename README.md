@@ -18,3 +18,4 @@ hosted on GitHub, but no longer are:
 - [poki-pona](https://git.madhouse-project.org/algernon/poki-pona)
 - [Model01-sketch](https://git.madhouse-project.org/algernon/Model01-sketch)
 - [potential-happiness](https://git.madhouse-project.org/algernon/potential-happiness)
+- [dh-exec](https://git.madhouse-project.org/archive/dh-exec)
