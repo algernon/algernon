@@ -13,3 +13,8 @@ for some of the reasons of my departure.
 Repositories are being migrated to my own [Gitea instance][my-gitea], you'll
 find them there. Below is a non-exhaustive list of my things that used to be
 hosted on GitHub, but no longer are:
+
+- [riemann-c-client](https://git.madhouse-project.org/algernon/riemann-c-client)
+- [poki-pona](https://git.madhouse-project.org/algernon/poki-pona)
+- [Model01-sketch](https://git.madhouse-project.org/algernon/Model01-sketch)
+- [potential-happiness](https://git.madhouse-project.org/algernon/potential-happiness)
