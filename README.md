@@ -27,6 +27,6 @@ where you should look:
 - [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope)
 - [Chrysalis](https://github.com/keyboardio/Chrysalis)
 - [Chrysalis-Firmware-Bundle](https://github.com/keyboardio/Chrysalis-Firmware-Bundle)
-- [focus-send](https://github.com/keyboardio/focus-send)
+- [kaleidoscope-focus.rs](https://github.com/keyboardio/kaleidoscope-focus.rs)
 
 The [Kaleidoscope & Chrysalis work queue](https://github.com/orgs/keyboardio/projects/4/views/1) may also be of interest.
