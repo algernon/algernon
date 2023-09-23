@@ -1,18 +1,9 @@
 # Where are all the repositories?
 
-I'm in the process of moving my code off of GitHub, for a variety of reasons,
-which I will talk about on [my blog][blog], eventually. Meanwhile, see
-[GiveUpGitHub][sfc:giveup] and [Free Software Needs Free Tools][mako:free-tools]
-for some of the reasons of my departure.
+I have moved my code off of GitHub, because GitHub no longer serves my needs, to say the least. On top of all that, being a free software person, I believe that [Free Software Needs Free Tools][mako:free-tools]. So I moved my repositories to [my own forge][my-forge], you'll be able to find them there. Below is a non-exhaustive list of things that used to be here, but no longer are:
 
- [blog]: https://asylum.madhouse-project.org/blog/
- [sfc:giveup]: https://giveupgithub.org/
  [mako:free-tools]: https://mako.cc/writing/hill-free_tools.html
- [my-gitea]: https://git.madhouse-project.org/algernon
-
-Repositories are being migrated to my own [Gitea instance][my-gitea], you'll
-find them there. Below is a non-exhaustive list of my things that used to be
-hosted on GitHub, but no longer are:
+ [my-forge]: https://git.madhouse-project.org/algernon
 
 - [riemann-c-client](https://git.madhouse-project.org/algernon/riemann-c-client)
 - [poki-pona](https://git.madhouse-project.org/algernon/poki-pona)
@@ -20,13 +11,7 @@ hosted on GitHub, but no longer are:
 - [Model100-sketch](https://git.madhouse-project.org/algernon/Model100-sketch)
 - [potential-happiness](https://git.madhouse-project.org/algernon/potential-happiness)
 
-Keyboardio's repositories are still on GitHub, however, so if you're interested
-in where I spend most of my time these days, the following repositories are
-where you should look:
+I only moved my own repositories. I still have a GitHub account - obviously, since you're reading this -, and will maintain that until I work on, or contribute to projects that are hosted there. If for some odd reason you're interested in what I'm doing, you can check [my forge][my-forge], it even has an RSS feed. Or, you can follow me on the [Fediverse][mhp:fedi], or check [my blog][mhp:blog].
 
-- [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope)
-- [Chrysalis](https://github.com/keyboardio/Chrysalis)
-- [Chrysalis-Firmware-Bundle](https://github.com/keyboardio/Chrysalis-Firmware-Bundle)
-- [kaleidoscope-focus.rs](https://github.com/keyboardio/kaleidoscope-focus.rs)
-
-The [Kaleidoscope & Chrysalis work queue](https://github.com/orgs/keyboardio/projects/4/views/1) may also be of interest.
+ [mhp:fedi]: https://trunk.mad-scientist.club/@algernon
+ [mhp:blog]: https://asylum.madhouse-project.org/
